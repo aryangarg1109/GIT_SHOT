@@ -1,4 +1,4 @@
-## GIT HUNT
+## GIT SHOT
 # 1. Methodology
   ![Blank diagram (1) (1)](https://user-images.githubusercontent.com/88609674/208239041-7bfcb9c4-7180-4c88-85b8-3327720b7218.jpeg)
 
